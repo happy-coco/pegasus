@@ -1,2 +1,2 @@
 # pegasus
-Web app ideas
+Running app
